@@ -118,13 +118,6 @@ google-generativeai>=0.7.2
 * Support for Excel & JSON files
 * Memory for multi-step queries
 
----
 
-## 🧑‍💻 Author
-
-Developed by **Saad Khan** — passionate about AI, Automation, and Data Tools.
-Feel free to connect or contribute!
-
----
 
 ### ⭐ If you like this project, consider starring the repo!
